@@ -1,5 +1,11 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/NIkolayrr)
+<picture>
+<img 
+  alt="Most used languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolayrr&layout=donut-vertical&theme=radical"
+  height="400px"
+/>
+</picture>
 
 📫 How to reach me: nikolay.r.rangelov@gmail.com
 <!--
